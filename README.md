@@ -1,5 +1,5 @@
 # Starbucks_main
-# 헤더
+## 헤더
 ![starbucks 메인화면1](https://user-images.githubusercontent.com/79045880/132446018-43178617-5941-41eb-8770-e12eb587979f.JPG)
 ### 헤더바
 ![메뉴바](https://user-images.githubusercontent.com/79045880/132455883-6ae919cd-1c7b-4d9d-a642-3f7ea374940f.JPG)
