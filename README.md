@@ -1,5 +1,8 @@
 ### Starbucks_Main
 
+> 스타벅스 메인화면 제작
+
+
 * HEADER
 ![starbucks 메인화면1](https://user-images.githubusercontent.com/79045880/132446018-43178617-5941-41eb-8770-e12eb587979f.JPG)
 
